@@ -17,7 +17,13 @@ def main():
     print(f"Sum: {add(a,b)}")
     print(f"Difference: {sub(a,b)}")
     print(f"Product: {mul(a,b)}")
-    print(f"Quotient: {div(a,b)}")
+    
+    # Check divide by zero case
+    if b == 0:
+        print("Can't divide by 0.")
+    
+    else:
+        print(f"Quotient: {div(a,b)}")
 
 if __name__ == "__main__":
     main()
