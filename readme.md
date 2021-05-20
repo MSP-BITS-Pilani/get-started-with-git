@@ -8,8 +8,11 @@ file in the teamList which you can use. All you need to do to make your first co
 details in the [`template.md`](teamList/template.md), save it as `yourname.md` and create a PR. 
 
 ## Get started
-1. Fork this repository and clone the forked repo to your local machine.
-2. Create a new branch and name it anything you like. 
+1. Fork this repository and clone the forked repo to your local machine. When you clone a repository, git automatically makes a new folder within the folder where you ran your clone command. Make sure that you are in the correct working directory by changing into the cloned directory.
+```markdown
+$ cd get-started-with-git
+```
+3. Create a new branch and name it anything you like. 
 ```markdown
 $ git checkout -b branch-name
 ```
