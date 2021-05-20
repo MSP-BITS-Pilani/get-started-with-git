@@ -1,23 +1,23 @@
 # Your Name
-Supreeth MK
+
 ### Location
 Fill in your city here.
-Bangalore
+
 ### Branch
 Fill in your branch here
-Msc Physics
+
 ### Email
 Fill in your email here.
-smk@gmail.com
+
 ### Interests
-- Robotics
-- Chess
-- Cricket
+- Interest 1
+- Interest 2
+- Interest 3
 
 ### Social media handles
-- [Github](https://github.com/supreethmkiran)
+- [Github](https://github.com/)
 - [StackOverflow](https://stackoverflow.com/)
 - [Facebook](https://facebook.com/)
-- [Instagram](https://instagram.com/supreeth_mk/)
+- [Instagram](https://instagram.com/)
 
 
