@@ -36,7 +36,12 @@ def main():
         print(f"Product: {mul(a,b)}")
 
     if args.div:
-        print(f"Quotient: {div(a,b)}")
+        # Check divide by zero case
+        if b == 0:
+            print("Can't divide by 0.")
+        
+        else:
+            print(f"Quotient: {div(a,b)}")
 
 if __name__ == "__main__":
     main()
