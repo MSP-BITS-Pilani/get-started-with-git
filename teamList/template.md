@@ -1,23 +1,20 @@
 # Your Name
+Rishabh Kumar
 
 ### Location
-Fill in your city here.
+Bangalore
 
 ### Branch
-Fill in your branch here
+CSE
 
 ### Email
-Fill in your email here.
+f20201211@pilani.bits-pilani.ac.in
 
 ### Interests
-- Interest 1
-- Interest 2
-- Interest 3
+- Guitar
+- ML/CC
+- Cricket, Football
 
 ### Social media handles
-- [Github](https://github.com/)
-- [StackOverflow](https://stackoverflow.com/)
-- [Facebook](https://facebook.com/)
-- [Instagram](https://instagram.com/)
-
-
+- [Github](https://github.com/k-rishabh)
+- [Instagram](https://instagram.com/rish973)
